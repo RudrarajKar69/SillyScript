@@ -1,4 +1,7 @@
 # SillyScript
+
+![Logo](Silly Script.png)
+
 My custom made programming language.
 
 The structure of programs written in this language (SillyScript) is exactly like java, only the keywords are different.
