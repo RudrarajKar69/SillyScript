@@ -1,6 +1,6 @@
 # SillyScript
 
-![Logo](Silly Script.png)
+![Logo](logo.png)
 
 My custom made programming language.
 
